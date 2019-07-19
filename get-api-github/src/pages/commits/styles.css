@@ -1,0 +1,51 @@
+
+.error-commits-list article {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+} 
+
+.error-commits-list {
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 10 20px;
+}
+  
+.commits-list article {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: -webkit-auto;
+}
+
+.commits-list  {
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 10 20px;
+} 
+
+.commits-list p {
+  font-size: 16px;
+  color: #999;
+  margin-top: 5px;
+  line-height: 24px
+}
+
+.Amount-Commits {
+  max-width: 300px;
+  margin: 20px auto 0;
+}
+.Amount-Commits article {
+  margin: 14px;
+  margin-bottom: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
