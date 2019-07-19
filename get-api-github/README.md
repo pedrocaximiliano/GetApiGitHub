@@ -1,4 +1,16 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+Exemplo to call the GitHub API listing my repositories
+
+## installation 
+
+$ npm install axios
+
+$ npm install --save react-router-dom
+
+npm install --save moment react-moment
 
 ## Available Scripts
 
