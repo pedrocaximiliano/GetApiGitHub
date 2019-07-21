@@ -52,8 +52,8 @@ class Main extends Component{
                         {docs.map((resp) =>
                         <article key={resp.node_id} >
                             <div  className="perfil">
-                                <img className="img" src={resp.owner.avatar_url}/>
-                                <strong>User Name: <span>{ resp.owner.login}</span></strong>
+                                <strong><p><img className="img" src={resp.owner.avatar_url}/></p></strong>
+                                <strong>User Name: <p>{ resp.owner.login}</p></strong>
                             </div>
                             <strong >Repository Name:<p>{resp.name}</p></strong>
                             <strong>Discrption:<p>{resp.description}</p></strong>
